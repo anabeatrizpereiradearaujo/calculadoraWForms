@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OSAldHgzldY=",
   "success": true,
   "projectFilePath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj",
+=======
+  "dgSpecHash": "uKH6/iN/1q4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
+>>>>>>> 644a4f4792bf583ba8b34b033369850d83691aff
   "expectedPackageFiles": [],
   "logs": []
 }
