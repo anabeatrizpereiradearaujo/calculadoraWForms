@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\": {},
+    "C:\\Users\\amanda.afranca1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj",
-      "packagesPath": "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\obj\\",
+      "projectPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
+      "packagesPath": "C:\\Users\\amanda.afranca1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ana.bparaujo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amanda.afranca1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
