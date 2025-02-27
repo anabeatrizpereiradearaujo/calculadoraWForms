@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
