@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\mand_\\OneDrive\\Documentos\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\mand_\\OneDrive\\Documentos\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\mand_\\OneDrive\\Documentos\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\amanda.afranca1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\mand_\\OneDrive\\Documentos\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\mand_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mand_\\OneDrive\\Documentos\\CalculadoraWForms\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amanda.afranca1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mand_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
