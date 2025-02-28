@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\amanda.afranca1\\.nuget\\packages\\": {},
+    "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
-      "packagesPath": "C:\\Users\\amanda.afranca1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\obj\\",
+      "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj",
+      "packagesPath": "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\amanda.afranca1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ana.bparaujo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -79,5 +79,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

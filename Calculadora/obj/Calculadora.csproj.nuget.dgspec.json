@@ -1,37 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj": {
+    "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\ana.bparaujo2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.bparaujo2\\Documents\\calculadoraWForms\\Calculadora\\obj\\",
-=======
-    "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
-        "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\amanda.afranca1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amanda.afranca1\\Documents\\CalculadoraWForms\\Calculadora\\obj\\",
->>>>>>> 644a4f4792bf583ba8b34b033369850d83691aff
+        "outputPath": "C:\\Users\\ana.bparaujo2\\Documents\\Nova calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amanda.afranca1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ana.bparaujo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
