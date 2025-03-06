@@ -2,6 +2,15 @@ namespace Calculadora
 {
     public partial class Form1 : Form
     {
+        public decimal Resultado { get; set; }
+        public decimal Valor { get; set; }
+        private Operacao OperacaoSelecionada {  get; set; }
+        private enum Operacao {
+
+
+            Multiplicacao,
+            Divisão
+        }
         public Form1()
         {
             InitializeComponent();
@@ -57,7 +66,8 @@ namespace Calculadora
         }
         private void btnVirgula_Click(object sender, EventArgs e)
         {
-
+            if(!textResultado.Text.Contains(","))
+            textResultado.Text = ",";
         }
 
         private void btnAdicao_Click(object sender, EventArgs e)
@@ -77,23 +87,42 @@ namespace Calculadora
 
         private void btnDivisao_Click(object sender, EventArgs e)
         {
-
+            OperacaoSelecionada = Operacao.Divisão;
+            Valor = Convert.ToDecimal(textResultado.Text);
+            textResultado.Text = "";
+            lblOperacao.Text = "/";
         }
 
         private void btnMultiplicacao_Click(object sender, EventArgs e)
         {
-
+            OperacaoSelecionada = Operacao.Multiplicacao;
+            Valor = Convert.ToDecimal(textResultado.Text);
+            textResultado.Text = "";
+            lblOperacao.Text = "*";
         }
+
 
 
         private void btnApagar_Click(object sender, EventArgs e)
         {
-
+            textResultado.Text = "";
+            lblOperacao.Text = "";
         }
 
         private void btnIgual_Click(object sender, EventArgs e)
         {
+            switch (OperacaoSelecionada)
+            {
+                case Operacao.Divisão:
+                    Resultado = Valor / Convert.ToDecimal(textResultado.Text);
 
+                    break;
+                case Operacao.Multiplicacao:
+                    Resultado = Valor * Convert.ToDecimal(textResultado.Text);
+                    break;
+            }
+            textResultado.Text = Convert.ToString(Resultado);
+            lblOperacao.Text = "=";
         }
 
     }

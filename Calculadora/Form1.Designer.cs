@@ -46,7 +46,7 @@
             btnDivisao = new Button();
             btnIgual = new Button();
             btnApagar = new Button();
-            label1 = new Label();
+            lblOperacao = new Label();
             SuspendLayout();
             // 
             // textResultado
@@ -246,14 +246,14 @@
             btnApagar.UseVisualStyleBackColor = false;
             btnApagar.Click += btnApagar_Click;
             // 
-            // label1
+            // lblOperacao
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.White;
-            label1.Location = new Point(18, 22);
-            label1.Name = "label1";
-            label1.Size = new Size(0, 15);
-            label1.TabIndex = 21;
+            lblOperacao.AutoSize = true;
+            lblOperacao.BackColor = Color.White;
+            lblOperacao.Location = new Point(18, 22);
+            lblOperacao.Name = "lblOperacao";
+            lblOperacao.Size = new Size(0, 15);
+            lblOperacao.TabIndex = 21;
             // 
             // Form1
             // 
@@ -261,7 +261,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlDarkDark;
             ClientSize = new Size(204, 274);
-            Controls.Add(label1);
+            Controls.Add(lblOperacao);
             Controls.Add(btnApagar);
             Controls.Add(btnIgual);
             Controls.Add(btnDivisao);
@@ -309,6 +309,6 @@
         private Button btnDivisao;
         private Button btnIgual;
         private Button btnApagar;
-        private Label label1;
+        private Label lblOperacao;
     }
 }
