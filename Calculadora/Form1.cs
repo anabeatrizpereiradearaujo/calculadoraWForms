@@ -2,14 +2,14 @@ namespace Calculadora
 {
     public partial class Form1 : Form
     {
-        public decimal Resultado { get; set; }
-        public decimal Valor { get; set; }
+        private decimal Resultado { get; set; }
+        private decimal Valor { get; set; }
         private Operacao OperacaoSelecionada {  get; set; }
         private enum Operacao {
 
 
             Multiplicacao,
-            Divisão
+            Divisao
         }
         public Form1()
         {
@@ -87,7 +87,7 @@ namespace Calculadora
 
         private void btnDivisao_Click(object sender, EventArgs e)
         {
-            OperacaoSelecionada = Operacao.Divisão;
+            OperacaoSelecionada = Operacao.Divisao;
             Valor = Convert.ToDecimal(textResultado.Text);
             textResultado.Text = "";
             lblOperacao.Text = "/";
@@ -113,16 +113,26 @@ namespace Calculadora
         {
             switch (OperacaoSelecionada)
             {
-                case Operacao.Divisão:
-                    Resultado = Valor / Convert.ToDecimal(textResultado.Text);
+                case Operacao.Divisao:
+                    if (textResultado.Text == "0")
+                    {
+                        
+                        textResultado.Text = "Não é possível dividir por zero";
+                        
+                        return;                  
+                    }               
+
+                        Resultado = Valor / Convert.ToDecimal(textResultado.Text);
 
                     break;
                 case Operacao.Multiplicacao:
                     Resultado = Valor * Convert.ToDecimal(textResultado.Text);
                     break;
-            }
+            }         
             textResultado.Text = Convert.ToString(Resultado);
+           
             lblOperacao.Text = "=";
+           
         }
 
     }
