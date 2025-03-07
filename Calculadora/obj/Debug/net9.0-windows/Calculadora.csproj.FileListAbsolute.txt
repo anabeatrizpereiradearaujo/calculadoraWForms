@@ -25,3 +25,11 @@ C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-w
 C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\Calculadora.dll
 C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\refint\Calculadora.dll
 C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\Calculadora.pdb
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\bin\Debug\net9.0-windows\Calculadora.exe
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\bin\Debug\net9.0-windows\Calculadora.deps.json
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\bin\Debug\net9.0-windows\Calculadora.runtimeconfig.json
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\bin\Debug\net9.0-windows\Calculadora.dll
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\bin\Debug\net9.0-windows\Calculadora.pdb
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\ana.bparaujo2\Documents\Nova calculadora\Calculadora\obj\Debug\net9.0-windows\ref\Calculadora.dll
